@@ -1,0 +1,6 @@
+C2:56:M:MJK:lamp:0
+C4:22:F:NULL:tiger:0
+C3:28:M:PKL:stick:1
+C1:43:M:ABC:cycle:1
+Jaya:45:M:New:Pipe:0
+kishaanth:34:M:abc:lion:0
